@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
 
-<p>Welcome to my page! </br> I'm Monireh, Front-end developer from <b>Tehran, Iran</b>.
+<p>Welcome to my page! </br> I'm Monireh, Front-end developer with 4+ years of experience from <b>Tehran, Iran</b>.
 
 #### Things I code with
 <p>
@@ -52,8 +52,6 @@
 [<img src="https://monireamini.github.io/projects/soluzy/soluzy-4.png" width="120">](https://monireamini.github.io/)
 [<img src="https://monireamini.github.io/projects/soluzy/soluzy-5.png" width="120">](https://monireamini.github.io/)
 
-
-
 </br>
 
 <!--
@@ -73,4 +71,9 @@ Here are some ideas to get you started:
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monireamini&show_icons=true&theme=gotham" alt="monireamini" />
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=monireamini&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 -->
