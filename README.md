@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/monirehamini/">
+  <img align="left" alt="Monireh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <!--
 **monireamini/monireamini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
