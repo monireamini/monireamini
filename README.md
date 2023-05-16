@@ -29,8 +29,9 @@
 </a>
 
 </br>
+</br>
 
-#### Sample implemented Apps:
+#### Sample implemented Apps
 
 ##### Magny - Victoria, Australia
 [<img src="https://monireamini.github.io/projects/magny/magny-1.png" width="120">](https://monireamini.github.io/)
@@ -58,24 +59,17 @@
 
 </br>
 
+<a href="http://www.coffeete.ir/monireh">
+  <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+</a>
+
+</bt>
+
+#### My Github Stats
+<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=monireamini&theme=dracula&hide_border=true&bg_color=000&title_color=fff">
+
 <!--
 **monireamini/monireamini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monireamini&show_icons=true&theme=gotham" alt="monireamini" />
-
 
 ## 🏆 GitHub Trophies
 
