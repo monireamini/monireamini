@@ -31,6 +31,8 @@
 </br>
 
 #### Sample implemented Apps:
+
+##### Magny - Victoria, Australia
 [<img src="https://monireamini.github.io/projects/magny/magny-1.png" width="120">](https://monireamini.github.io/)
 [<img src="https://monireamini.github.io/projects/magny/magny-2.png" width="120">](https://monireamini.github.io/)
 [<img src="https://monireamini.github.io/projects/magny/magny-3.png" width="120">](https://monireamini.github.io/)
@@ -39,6 +41,7 @@
 
 </br>
 
+##### Soha - Tehran, Iran
 [<img src="https://monireamini.github.io/projects/soha/soha-1.png" width="120">](https://monireamini.github.io/)
 [<img src="https://monireamini.github.io/projects/soha/soha-2.png" width="120">](https://monireamini.github.io/)
 [<img src="https://monireamini.github.io/projects/soha/soha-3.png" width="120">](https://monireamini.github.io/)
@@ -46,6 +49,7 @@
 
 </br>
 
+##### Soluzy - Bucharest, Romania
 [<img src="https://monireamini.github.io/projects/soluzy/soluzy-1.png" width="120">](https://monireamini.github.io/)
 [<img src="https://monireamini.github.io/projects/soluzy/soluzy-2.png" width="120">](https://monireamini.github.io/)
 [<img src="https://monireamini.github.io/projects/soluzy/soluzy-3.png" width="120">](https://monireamini.github.io/)
