@@ -42,6 +42,15 @@
 
 #### Sample implemented Apps
 
+##### MetaOra - Istanbul, Turkey
+[<img src="https://monireamini.github.io/projects/metaora/metaora-1.png" width="120">](https://monireamini.github.io/)
+[<img src="https://monireamini.github.io/projects/metaora/metaora-2.png" width="120">](https://monireamini.github.io/)
+[<img src="https://monireamini.github.io/projects/metaora/metaora-3.png" width="120">](https://monireamini.github.io/)
+[<img src="https://monireamini.github.io/projects/metaora/metaora-4.png" width="120">](https://monireamini.github.io/)
+[<img src="https://monireamini.github.io/projects/metaora/metaora-5.png" width="120">](https://monireamini.github.io/)
+
+</br>
+
 ##### Magny - Victoria, Australia
 [<img src="https://monireamini.github.io/projects/magny/magny-1.png" width="120">](https://monireamini.github.io/)
 [<img src="https://monireamini.github.io/projects/magny/magny-2.png" width="120">](https://monireamini.github.io/)
