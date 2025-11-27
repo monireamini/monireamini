@@ -1,15 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
 
-<p>Welcome to my page! </br> I'm Monireh, Front-end developer with 4+ years of experience from <b>Tehran, Iran</b>.
+<p>Welcome to my page! </br> I'm Monireh, Front-end developer with 6+ years of experience from <b>Tehran, Iran</b>.
 
 <p>Working on https://fleet-monireamini.vercel.app/</p>
-
-##### Like My Work?
-##### Buy Me A Coffee
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/monireh)
-
-##### Buy Me A Coffee from Iran
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](http://www.coffeete.ir/monireh)
 
 #### Things I code with
 <p>
