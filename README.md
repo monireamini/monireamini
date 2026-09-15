@@ -23,58 +23,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
-#### Where to find me
-<a href="https://www.linkedin.com/in/monirehamini/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Monireh's Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
-</a>
-
-<a href="mailto:monireamini@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Monireh's Gmail" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
-</a>
-
-</br>
-</br>
-
-#### Sample implemented Apps
-
-##### MetaOra - Istanbul, Turkey
-[<img src="https://monireamini.github.io/projects/metaora/metaora-1.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/metaora/metaora-2.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/metaora/metaora-3.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/metaora/metaora-4.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/metaora/metaora-5.png" width="120">](https://monireamini.github.io/)
-
-</br>
-
-##### Magny - Victoria, Australia
-[<img src="https://monireamini.github.io/projects/magny/magny-1.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/magny/magny-2.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/magny/magny-3.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/magny/magny-4.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/magny/magny-5.png" width="120">](https://monireamini.github.io/)
-
-</br>
-
-##### Soha - Tehran, Iran
-[<img src="https://monireamini.github.io/projects/soha/soha-1.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/soha/soha-2.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/soha/soha-3.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/soha/soha-4.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/soha/soha-5.png" width="120">](https://monireamini.github.io/)
-
-</br>
-
-##### Soluzy - Bucharest, Romania
-[<img src="https://monireamini.github.io/projects/soluzy/soluzy-1.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/soluzy/soluzy-2.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/soluzy/soluzy-3.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/soluzy/soluzy-4.png" width="120">](https://monireamini.github.io/)
-[<img src="https://monireamini.github.io/projects/soluzy/soluzy-5.png" width="120">](https://monireamini.github.io/)
-
-</br>
-
-#### My Github Stats
 <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=monireamini&theme=dracula&hide_border=true&bg_color=000&title_color=fff">
 
 <!--
