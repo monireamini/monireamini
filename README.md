@@ -1,14 +1,17 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
 
-<p>Welcome to my page! </br> I'm Monireh, Front-end developer with 6+ years of experience from <b>Tehran, Iran</b>.
+<p>Welcome to my page! </br> I'm Monireh, an iOS Engineer with 7+ years of experience from <b>Tehran, Iran</b> — building native Swift and SwiftUI apps, with a background across React, React Native, and modern JavaScript.</p>
 
-<p>Working on https://fleet-monireamini.vercel.app/</p>
+<p>Portfolio: <a href="https://monireamini.github.io/" target="_blank" rel="noopener noreferrer">monireamini.github.io</a></p>
 
 #### Things I code with
 <p>
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="UIKit" src="https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
